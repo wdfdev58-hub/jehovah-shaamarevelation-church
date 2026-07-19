@@ -158,6 +158,10 @@
     { scale: 0.94, opacity: 0.25 },
     { scale: 1, opacity: 1, ease: 'none',
       scrollTrigger: { trigger: '#scripture', start: 'top 80%', end: 'top top', scrub: true } });
+  gsap.fromTo('#scriptureBg',
+    { scale: 1 },
+    { scale: 1.12, ease: 'none',
+      scrollTrigger: { trigger: '#scripture', start: 'top bottom', end: '+=120%', scrub: true } });
   gsap.to('#verseTag', {
     letterSpacing: '0.6em', ease: 'none',
     scrollTrigger: { trigger: '#scripture', start: 'top bottom', end: 'top top', scrub: true },

@@ -1,0 +1,14 @@
+hero.jpg, moment-1.jpg, moment-2.jpg, moment-3.jpg, visit.jpg
+  — Pexels (themed search, no attribution required by licence).
+
+crest.png, crest-plaque.png
+  — the church's real crest, cropped from screenshots of their original site
+    (https://jehovahshaamarevelationchurch.lovable.app/), supplied by the operator.
+
+congregation-worship.jpg
+  — the church's real congregation-in-worship photo, cropped from a screenshot of their
+    original site's hero section.
+
+bible-altar.jpg
+  — the church's real "Bible on the altar" photo, cropped from a screenshot of their
+    original site's Ezekiel 48:35 section.
