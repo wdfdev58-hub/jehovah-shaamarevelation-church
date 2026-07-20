@@ -29,10 +29,9 @@ provided — see `assets/img/CREDITS.txt`):
 mission, "Rooted, revealed, radiant." (Our Calling section), the real per-service descriptions, and the
 Ezekiel 48:35 quote in full.
 
-**⚠️ Flagged for Nosipho / pastor confirmation:** the mission statement on the church's own site reads
-"a **faith-storing**, God-driven community" — almost certainly meant to be "faith-**restoring**". Left
-exactly as written (see the HTML comment above the Mission card in `index.html`, `#calling` section) pending
-confirmation. Do not silently correct until the pastor confirms.
+**Wording correction (confirmed 2026-07-20):** the mission statement on the church's own site read
+"a faith-storing, God-driven community" — flagged as a likely slip for "faith-restoring" and left verbatim
+pending confirmation. Confirmed and corrected to **"faith-restoring"** in the Mission card, `#calling` section.
 
 **Contact info — what's real vs. deliberately left out:**
 - `hello@jehovahshaama.church` — confirmed real (visible on their own site's contact section), so it's used
